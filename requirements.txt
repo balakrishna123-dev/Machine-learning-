@@ -1,0 +1,1 @@
+requirements.txthttps://github.com/balakrishna123-dev/agri_ai_streamlit_project/blob/main/EDA%20(1).ipynb
